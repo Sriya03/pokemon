@@ -1,0 +1,28 @@
+.App{
+  display: flex;
+  background-color: brown;
+  justify-content: center;
+  color: white;
+  height: 300px;
+  margin: 0%;
+  padding-top: 20px;
+  font-size: 30px;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.App input{
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.pokedata{
+  margin-top: 10px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.card{
+  margin-top: 20px;
+  
+}
